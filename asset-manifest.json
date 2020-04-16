@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/portfolio/static/js/main.9075c671.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9075c671.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d597d31e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d597d31e.js.map",
+    "static/js/2.ca25db34.chunk.js": "/portfolio/static/js/2.ca25db34.chunk.js",
+    "static/js/2.ca25db34.chunk.js.map": "/portfolio/static/js/2.ca25db34.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6bd538902a592f32a7aa1aef4d730887.js": "/portfolio/precache-manifest.6bd538902a592f32a7aa1aef4d730887.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/portfolio/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.ca25db34.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ca25db34.chunk.js.LICENSE.txt",
+    "static/media/artfunder.png": "/portfolio/static/media/artfunder.894c8e1a.png",
+    "static/media/dadjokes.png": "/portfolio/static/media/dadjokes.6c1c7ffc.png",
+    "static/media/hero.jpg": "/portfolio/static/media/hero.470c7751.jpg",
+    "static/media/me.jpg": "/portfolio/static/media/me.bcd4a9ca.jpg",
+    "static/media/partyplanner.png": "/portfolio/static/media/partyplanner.553b392d.png",
+    "static/media/rickmorty.png": "/portfolio/static/media/rickmorty.87ae03aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d597d31e.js",
+    "static/js/2.ca25db34.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.9075c671.chunk.js"
+  ]
+}
