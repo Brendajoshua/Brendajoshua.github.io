@@ -29,7 +29,7 @@ export const StyledSkillsContainer = styled.section`
     }
     h2 {
       color: ${props => props.theme.header};
-      font-size: 1.5rem;
+      font-size: 1.6rem;
       margin-bottom: 2rem;
     }
     

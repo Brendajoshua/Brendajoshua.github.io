@@ -22,7 +22,7 @@ const StyledPortfolioIntro = styled.section`
   }
   p {
     width: 100%;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     line-height: 2.5rem;
     margin-bottom: 2rem;
     a {
@@ -77,7 +77,7 @@ const StyledPortfolioContainer = styled.div`
       }
       p {
           width: 90%;
-          font-size: 1.3rem;
+          font-size: 1.6rem;
           line-height: 2rem;
           text-align: center;
       }

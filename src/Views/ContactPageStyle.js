@@ -16,7 +16,7 @@ export const StyledContactPage = styled.section`
   }
   p {
     width: 80%;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     line-height: 2.5rem;
     margin-bottom: 2rem;
     @media (max-width: 600px) {
@@ -24,7 +24,7 @@ export const StyledContactPage = styled.section`
     }
   }
   li {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     margin-bottom: 1rem;
     display: flex;
     align-items: center; 

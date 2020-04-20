@@ -29,7 +29,7 @@ export const StyledLandingContainer = styled.section`
     }
     p {
       width: 90%;
-      font-size: 1.5rem;
+      font-size: 1.6rem;
       line-height: 2.5rem;
       margin-bottom: 2rem;
       @media (max-width: 700px) {

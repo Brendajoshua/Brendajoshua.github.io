@@ -4,6 +4,8 @@ export const Theme2 = {  //DARKMODE
     lemon: '#F070A1',
     yellow: '#16FFBD',
     font: '#FFFFFF',
+    black: '#ead61c',
+    //black: '#fff4e6',
 }; 
 
 export const Theme = { //DAY
@@ -12,4 +14,5 @@ export const Theme = { //DAY
     lemon: '#14A098',
     yellow: '#CB2D6F',
     font: '#011910',
+    black: '#fff4e6',
 }; 

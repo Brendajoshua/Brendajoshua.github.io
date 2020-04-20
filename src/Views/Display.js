@@ -23,7 +23,7 @@ flex-direction: row-reverse;
 }
 .heroText {
     text-align: center;
-    color: ${props => props.theme.yellow};
+    color: ${props => props.theme.black};
     font-size: 6rem;
     margin: 13rem 13rem;
     @media(max-width: 800px) {
