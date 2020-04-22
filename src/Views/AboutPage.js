@@ -24,7 +24,7 @@ function About() {
       </div>
       <div className="right">
         <div className="img-cont">
-          <img src={Me} alt="Me! Rory!" />
+          <img src={Me} alt="Brenda" />
         </div>
       </div>
     </StyledLandingContainer>

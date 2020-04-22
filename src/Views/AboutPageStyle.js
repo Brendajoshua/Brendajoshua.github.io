@@ -56,8 +56,8 @@ export const StyledLandingContainer = styled.section`
     img {
       max-width: 100%;
       height: auto;
-      border: 3.5px solid ${props => props.theme.imageBG};
-      border-radius: 50%;
+      border-radius: 2%;
+      transform: rotate(270deg);
     }
   }
 `;
