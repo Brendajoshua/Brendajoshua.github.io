@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 //Style Imports
 import { StyledLandingContainer } from './AboutPageStyle'
 
-// Image Imports
+
 import Me from '../Assets/me.jpg';
 
 function About() {
