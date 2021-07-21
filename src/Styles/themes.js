@@ -6,7 +6,6 @@ export const Theme2 = {  //DARKMODE
     font: '#FFFFFF',
     black: '#ead61c',
     nav: '#FFFFFF',
-    //black: '#fff4e6',
 }; 
 
 export const Theme = { //DAY
