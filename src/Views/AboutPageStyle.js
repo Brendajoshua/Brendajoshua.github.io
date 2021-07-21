@@ -57,7 +57,7 @@ export const StyledLandingContainer = styled.section`
       max-width: 100%;
       height: auto;
       border-radius: 2%;
-      transform: rotate(270deg);
+      transform: rotate(360deg);
     }
   }
 `;
